@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    min-height: 850px;
+    width: auto;
+    background-image: url("Image/studio.jpg");
+    background-color: #000000;
+    background-size: contain;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+}
+.social{
+    position: absolute ;
+    border-radius: 50%;
+    color: aliceblue;
+}
+  
+div{
+    font-family: cursive;
+    color: white;
+    position: center;
+}
+input {
+    height: 30px;
+    
+}
+
+.BtAgendar {
+    font-family: cursive;
+    background-color: greenyellow;
+    color: black;
+    border-radius: 5%;
+}
